@@ -12,15 +12,15 @@
 
 <p align="center">
 <a href="https://t.me/iSANDSTORM">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/32/2111/2111813.png" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/32/2111/2111646.png" />
 </a>
 <a href="https://www.linkedin.com/in/mehdirh/">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/32/1384/1384088.png" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/32/179/179330.png" />
 </a>
 <a href="mailto:contact@mehdirh.dev">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/32/561/561127.png" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/32/7718/7718904.png" />
 </a>
 <a href="https://mehdirh.dev">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/32/1006/1006771.png" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/32/189/189688.png" />
 </a>
 </p>
